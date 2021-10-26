@@ -1,1 +1,1 @@
- pg_dump -U postgres -h localhost vsdb >> sqlfile.sql
+# Backup and restore a postgres database using python
